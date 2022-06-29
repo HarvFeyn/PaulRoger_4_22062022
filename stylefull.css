@@ -771,15 +771,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #f3601c;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #f3601c!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #f3601c;
     color: #FFFFFF!important;
 }
 
@@ -826,7 +826,8 @@ h4 {
 }
 
 .content-text {
-    font-size: 16px;
+    font-size: 18px;
+    color: white!important;
 }
 .quote {
     font-style: italic;
@@ -834,6 +835,28 @@ h4 {
 
 .annuaire a:hover {
     text-decoration: underline;
+}
+
+.h1-contact {
+    color: white!important;
+}
+
+.footer-text {
+    font-size: 16px!important;
+}
+
+.partner-link {
+    color: white!important;
+}
+
+.tc-white-bright {
+    color: #F3976C!important;
+}
+
+.titleh2-tc-white {
+    color: #F3976C!important;
+    font-size: 26px;
+    font-weight: bold;
 }
 
 @media (max-width: 1024px) {
